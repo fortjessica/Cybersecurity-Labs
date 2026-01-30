@@ -1,0 +1,32 @@
+# Coinbase Phishing Email Analysis
+
+This repository documents the analysis of a phishing email impersonating **Coinbase**, highlighting common spoofing and evasion techniques used in malicious email campaigns.
+
+## Email Summary (Redacted)
+
+| Field        | Details                                  |
+|--------------|-----------------------------------------|
+| **From**     | mhjdkb@meinserver.me *(not Coinbase)*   |
+| **To**       | [REDACTED_MAIL_SERVER]                  |
+| **Date**     | Thu, 29 Jan 2026                         |
+| **Subject**  | Encoded / suspicious                     |
+| **Origin IP**| [REDACTED — untrusted source]           |
+| **SPF**      | Pass — sender allowed for domain        |
+| **DKIM**     | Fail — signature invalid or missing     |
+| **DMARC**    | Unknown — policy not set or not enforced|
+
+## Security Findings
+
+- Sender domain is **not associated with Coinbase**
+- Encoded subject line used to evade spam filters
+- Email shows **classic phishing indicators**, including spoofed sender and tracking techniques
+
+## Kim / Spy / Smart Insights
+
+- **Kim:** Impersonation of a trusted brand to exploit user trust  
+- **Spy:** Potential tracking or engagement monitoring behavior  
+- **Smart:** Obfuscation and encoding techniques used to bypass detection  
+
+## Purpose
+
+This repository is intended for **educational and security research purposes**, demonstrating how to identify phishing emails targeting financial service users.
