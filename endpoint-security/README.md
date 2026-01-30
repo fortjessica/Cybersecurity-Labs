@@ -1,4 +1,4 @@
-#Endpoint Security Lab
+# Endpoint Security Lab
 
 This lab covers analyzing endpoint alerts, investigating suspicious processes, and documenting remediation steps. 
 
