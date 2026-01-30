@@ -47,4 +47,4 @@ All URLs and domains in this report have been intentionally defanged (e.g., `exa
 This is a standard incident response practice for safely sharing indicators of compromise (IOCs) in public repositories.
 
 ## Evidence
-[Artifacts related to this incident are stored in the]
+[Artifacts related to this incident are stored in the](https://github.com/fortjessica/Cybersecurity-Projects/tree/0ffe53276d372bcacbcc3e519e3eb246022f58b4/incident-response/email-analysis/findings)
