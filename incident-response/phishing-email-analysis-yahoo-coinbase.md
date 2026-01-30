@@ -6,7 +6,7 @@ This lab documents the analysis of a suspected phishing email impersonating a le
 ## Email Summary
 - **Email Type:** Phishing (Credential Harvesting)  
 - **Attack Vector:** Email  
-- **Impersonated Brand:** Yahoo  
+- **Impersonated Brand:** Coinbase  
 - **User Impact:** Risk of account compromise  
 
 ## Tools Used
